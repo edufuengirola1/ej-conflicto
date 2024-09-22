@@ -35,3 +35,7 @@
 ![Novena Imagen](/img/img9.png)
 
 - Copiamos nuestro repositorio al remoto del ejercicio.
+
+![Decima Imagen](/img/img10.png)
+
+- Vemos los datos de Insights.
