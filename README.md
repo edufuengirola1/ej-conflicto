@@ -42,3 +42,6 @@
 
 # Parte 2
 
+![Decima Primera Imagen](/img/img11.png)
+
+- Creamos el fichero .gitignore y añadimos las normas que creamos en la web [Gitignore Generator - Toptal](https://www.toptal.com/developers/gitignore).
