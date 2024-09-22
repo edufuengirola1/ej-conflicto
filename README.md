@@ -24,3 +24,14 @@
 
 - Confirmo el merge después de arreglar el conflicto y muestro de forma gráfica el estado del repositorio.
 
+![Septima Imagen](/img/img7.png)
+
+- Cambiamos a master y mergeamos la rama-1 donde ya habíamos mergeado la rama-2, se hace un fast forward porque esta rama no había avanzado desde que se separarón las ramas.
+
+![Octava Imagen](/img/img8.png)
+
+- Borramos las ramas
+
+![Novena Imagen](/img/img9.png)
+
+- Copiamos nuestro repositorio al remoto del ejercicio.
