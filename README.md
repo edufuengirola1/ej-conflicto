@@ -39,3 +39,6 @@
 ![Decima Imagen](/img/img10.png)
 
 - Vemos los datos de Insights.
+
+# Parte 2
+
